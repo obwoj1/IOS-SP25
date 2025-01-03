@@ -4,7 +4,14 @@ Submitted by: Obaloluwa Wojuade
 
 InvestIn** is an app that that changes color of both text and background to be improved upon in the future to a full scape app for entrepreneurs and investors 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/528e209ff2c94effa06c0fe9cddac21e?sid=b607ba65-d241-4aed-b948-90f79968a0ef" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/528e209ff2c94effa06c0fe9cddac21e">
+      <p>Simulator - iPhone 16 Pro - 3 January 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/528e209ff2c94effa06c0fe9cddac21e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/528e209ff2c94effa06c0fe9cddac21e-f49ccc2468086a9d-full-play.gif">
+    </a>
+  </div>
 
 Time spent: 5 hours spent in total
 
