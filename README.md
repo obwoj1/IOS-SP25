@@ -1,4 +1,4 @@
-# Prework - InvestorIn
+# Prework - InvestIn
 
 Submitted by: Obaloluwa Wojuade
 
