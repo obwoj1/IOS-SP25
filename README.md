@@ -6,7 +6,7 @@ InvestIn** is an app that that changes color of both text and background to be i
 
 <div>
     <a href="https://www.loom.com/share/528e209ff2c94effa06c0fe9cddac21e">
-      
+      <p>InvestIN</p>
     </a>
     <a href="https://www.loom.com/share/528e209ff2c94effa06c0fe9cddac21e">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/528e209ff2c94effa06c0fe9cddac21e-f49ccc2468086a9d-full-play.gif">
