@@ -2,7 +2,7 @@
 
 Submitted by: Obaloluwa Wojuade
 
-InvestIn** is an app that that changes color of both text and background to be improved upon in the future to a full scape app for entrepreneurs and investors 
+InvestIn is an app that that changes color of both text and background to be improved upon in the future to a full scape app for entrepreneurs and investors 
 
 <div>
     <a href="https://www.loom.com/share/528e209ff2c94effa06c0fe9cddac21e">
